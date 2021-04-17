@@ -1,8 +1,8 @@
 ---
 # vars file for ec2_launch
 
-aws_access_key: "AKIATL7OUI7G7J6DPUMF"
-aws_secret_key: "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"
+aws_access_key: "AWS_ACCESS_KEY"
+aws_secret_key: "AWS_SECRET_KEY"
 key_name: "kubernetes_key"
 instance_type: "t2.micro"
 image_name: "ami-0bcf5425cdc1d8a85"
